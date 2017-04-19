@@ -1,1 +1,1 @@
-# angular
+# Nalashaa angular training

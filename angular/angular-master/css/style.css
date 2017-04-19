@@ -1,0 +1,54 @@
+/*Layout*/
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 940px;
+	margin: 0 auto;
+	font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
+	border: 1px solid rgba(102, 103, 113, 0.22);
+}
+
+header,section,article,aside,footer{
+	display: block;
+}
+
+h1 {
+    text-align: center;
+    color: #000088;
+}
+
+section{
+	margin: 0 auto;
+}
+
+section h2 {
+    background: #bf24ba;
+    height: 100px;
+    text-align: center;
+    margin: 0 auto;
+    color: #fff;
+    padding-top: 47px;
+    font-size: x-large;
+}
+
+.flex-container {
+   display: flex;
+}
+
+.flex-item {
+  margin: 10px;
+  flex-grow: 3;
+  flex-shrink: 3;
+  background-color: #0ee6d2;
+}
+
+footer{
+	padding: 10px;
+	color:#200f08 ;
+	background:#ddd3bf;	
+}
+
