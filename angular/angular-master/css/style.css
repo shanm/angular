@@ -46,6 +46,19 @@ section h2 {
   background-color: #0ee6d2;
 }
 
+.flexcontainer {
+   display: flex;
+}
+
+.flexitem {
+    margin: 10px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: #e8f2f1;
+    text-align: center;
+	border-radius: 6px;
+}
+
 footer{
 	padding: 10px;
 	color:#200f08 ;
