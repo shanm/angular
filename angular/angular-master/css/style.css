@@ -35,6 +35,20 @@ section h2 {
     font-size: x-large;
 }
 
+p {
+	height:20px;
+}
+
+.flex-container a {
+	text-decoration:none;
+    color: #0ee6d2;
+}
+
+.flex-container a:hover {
+	text-decoration:none;
+    color: #000088;
+}
+
 .flex-container {
    display: flex;
 }
