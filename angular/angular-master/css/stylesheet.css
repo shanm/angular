@@ -45,11 +45,7 @@ p {
 }
 
 .flex-container a:hover {
-	text-decoration:underline;
-    color: #000088;
-}
-.flex-container a:active {
-	text-decoration:underline;
+	text-decoration:none;
     color: #000088;
 }
 
